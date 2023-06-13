@@ -6,7 +6,7 @@ name: Build, Push, Ssh, Pull, Down, Up
 #       - 'staging'
 
 
-# hihi
+# hihihi
 on: [push]
 
 jobs:
