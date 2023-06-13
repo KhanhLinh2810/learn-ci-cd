@@ -34,7 +34,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: bsignbkc/express-sample-project:staging
+          tags: khanhlinh2810/learn-ci-cd:tagname
 
 
   pull-and-up:
